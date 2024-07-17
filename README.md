@@ -1,1 +1,1 @@
-# LeetCode-Practice---Grind75
+# LeetCodePractice-Grind75
